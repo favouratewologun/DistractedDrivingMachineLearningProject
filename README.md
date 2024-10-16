@@ -17,11 +17,15 @@ The model was trained using a dataset of labeled images representing various dri
 
 ## Results
 Achieved a high level of accuracy in detecting distracted driving behaviors.
+
 Successfully classified multiple categories such as texting, phone calls, and inattentive driving with minimal misclassification.
 ## Future Enhancements
 Integration with real-time video feeds for live detection.
+
 Improvement of model accuracy through data augmentation and hyperparameter tuning.
+
 Deployment as a web or mobile application for broader accessibility.
+
 ## Acknowledgments
 Special thanks to my mentor Abi and other group members for their contributions and collaboration in making this project successful.
 
